@@ -1,0 +1,17 @@
+{
+  "name": "cuteanimals",
+  "description": "test project with cute-animals theme",
+  "author": "Andrew Krueger",
+  "version": "1.0.0",
+  "license": "Permission is hereby granted to everyone to do anything with this software, except its original author, Andrew Krueger.  Andrew Krueger may not do anything with this software.",
+  "main": "cuteAnimals.js",
+  "scripts": {
+    "test":  "echo \"Error: no test specified\" && exit 1",
+    "start": "node cuteAnimals.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  },
+  "repository": {}
+}
